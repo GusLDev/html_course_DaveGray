@@ -17,3 +17,11 @@
 &lt; -> an arrow like this <
 &gt; -> an arrow like this >
 <abbr> It represents an abbreviation or acronym
+<address> Defines the contact information for the author/owner
+<ol> This a tag for ordered List
+<ul> This is a tag for unordered List
+<li> This represents an item in a list
+<dl> represents a description list
+    <dt> description term
+    <dd> description detail
+<a> This in an Archor tag, This is used as a link to other pages
