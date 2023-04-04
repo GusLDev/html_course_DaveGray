@@ -1,0 +1,19 @@
+<html> Every page starts and ends with the html opening and closing tag
+<head> We can put metadata inside this tag
+<body> In this tag everything that the user sees is going into
+<title> This tag gives a title to my page
+<h1> it's for a header you can only put one h1 element per page
+<p> This is a paragraph element
+<style> this is a tag for css
+<meta> This tag is for metadate
+<link> This tag defines the relationship between the current document and an external resource.
+<hr> This is a horizontal Rule element
+<br> Break line produces a line break
+******************IN LINE ELEMENTS ******************
+<em> It's for mark the important parts from a text
+<strong> It's for mark the special text parts from a text
+&nbsp -> It helps to represent a blank space
+&copy -> Copyright Symbol
+&lt; -> an arrow like this <
+&gt; -> an arrow like this >
+<abbr> It represents an abbreviation or acronym
