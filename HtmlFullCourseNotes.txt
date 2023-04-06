@@ -26,4 +26,8 @@
     <dd> description detail
 <a> This in an Archor tag, This is used as a link to other pages
 <section> This is for define a section
-<tag> This tag helps with the navigation
+<nav> This tag helps with the navigation
+<img> This tag is for images
+<figure> This tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+<figcaption> This tag represents a subtitle or caption, can go up or down
+<code> This tag help you to display code
