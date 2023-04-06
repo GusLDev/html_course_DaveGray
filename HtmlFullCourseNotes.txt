@@ -31,3 +31,16 @@
 <figure> This tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
 <figcaption> This tag represents a subtitle or caption, can go up or down
 <code> This tag help you to display code
+<header> This tag Represents a container for introductory content or a set of navigational links
+<main> This tag Represents the dominant content of the <body> of a document
+<footer>  This tag Represents (author information, copyright information, carriers, etc).
+<article> This tag represents a self-contained composition in a document, page, application, or site,
+ which is intended to be independently distributable or reusable
+ Article vs Section -> Article has a clear topic and section it's more generic
+ <aside> This tag defines some content aside from the content it is placed in
+ <details> This tag specifies additional details
+ <summary> This tag defines a visible heading for the <details> element.
+ <mark> This tag defines text that should be marked or highlighted
+ <time> This tag defines a specific time (or datetime)
+ <div> This tag defines a division or a section in an HTML document without any semantic property
+ <span> This tag is a generic inline container element without any semantic property
