@@ -44,3 +44,11 @@
  <time> This tag defines a specific time (or datetime)
  <div> This tag defines a division or a section in an HTML document without any semantic property
  <span> This tag is a generic inline container element without any semantic property
+ <table> This tag defines a html table
+ <tr> This tag represents a Table Row Element
+ <td> This tag represent a table Data
+ <th> This tag  is used for table header cells
+ <thead> This tag means table head,  its for a semantic property
+ <tbody> This tag means a table body, its for a semantic property
+ <tfoot> This tag means a table footer, its for a semantic property
+ scope The scope attribute specifies whether a header cell is a header for a column, row, or group of columns or rows
