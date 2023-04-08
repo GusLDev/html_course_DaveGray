@@ -57,3 +57,8 @@
  <input>This tag is used to create interactive controls for web-based forms in order to accept data from the user
  <select> This tag  element is used to create a drop-down list
  <optgroup> This tag is used to group related options in a <select> element (drop-down list)
+ <option> Represents an item within a select tag
+ <detalist> This contains a set of <option> elements that represent the permissible
+  or recommended options available to choose
+  <fieldset> This tag is used to group related elements in a form
+  <legend> This tag creates a tittle for field groups
