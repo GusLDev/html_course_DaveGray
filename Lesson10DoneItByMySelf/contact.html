@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Gustavo Marin Lemus">
+    <meta name="description" content="This the contact page for the lesson 10 challenge">
+    <title>Taco Shop ContactUs - Lesson 10 Challenge</title>
+    <link rel="icon" href="img/html5.png" type="image/x-icon">
+    <link rel="stylesheet" href="main.css" type="text/css">
+</head>
+
+<body>
+    <header>
+        <h1>Contact Us</h1>
+        <nav aria-label="primary-navigation">
+            <ul>
+                <li>
+                    <a href="/Lesson10DoneItByMySelf/">Home</a>
+                </li>
+                <li>
+                    <a href="/Lesson10DoneItByMySelf/#AboutLts">About LTS</a>
+                </li>
+                <li>
+                    <a href="/Lesson10DoneItByMySelf/#OurMenu">Our Menu</a>
+                </li>
+                <li>
+                    <a href="hours.html">Store Hours</a>
+                </li>
+            </ul>
+        </nav>
+        <figure>
+            <img src="img/tacos_close_up_400x260.png" alt="This picture is about tacos" width="400" height="260">
+            <figcaption>Little Taco Shop Tacos</figcaption>
+        </figure>
+    </header>
+    <main>
+        <article>
+            <h2>Our Contact Form</h2>
+            <form action="https://httpbin.org/get" method="get">
+                <fieldset>
+                    <legend>Send Us A Message</legend>
+                    <p>
+                        <label for="name">Name:</label>
+                        <input type="text" name="name" id="name" placeholder="Your Name" required>
+                    </p>
+                    <p>
+                        <label for="email">email:</label>
+                        <input type="text" name="email" id="email" placeholder="Your Email" required>
+                    </p>
+                    <p>
+                        <label for="message">Your Message: </label>
+                        <br>
+                        <textarea name="message" id="message" cols="30" rows="10"
+                            placeholder="Type your message Here"></textarea>
+                    </p>
+                </fieldset>
+                <button type="submit">Submit</button>
+                <button type="submit" formaction="https://httpbin.org/post" formmethod="post">Post</button>
+                <button type="reset">Reset</button>
+            </form>
+        </article>
+        <article>
+            <h2>Our Location</h2>
+            <section>
+                <p>
+                <address>555 Taco Temptation Lane, Suite T<br>Kansas City,MO 55555-5555</address>
+                Phone: <a href="tel:+1234567890">555-555-5555</a>
+                </p>
+                <p> <a href="#top">Back to Top</a></p>
+            </section>
+        </article>
+    </main>
+    <hr>
+    <footer>
+        <p>Copyright &copy; The Little Taco Shop</p>
+    </footer>
+</body>
+
+</html>
